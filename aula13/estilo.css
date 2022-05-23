@@ -25,6 +25,11 @@ section{
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.349);
 }
 
+div{
+    text-align: center;
+    padding: 10px;
+}
+
  img{
     border-radius: 50%;
     width: 200px;

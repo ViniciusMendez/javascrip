@@ -5,7 +5,7 @@ while (c <= 5){
 }
 */
 
-for( var c = 1; c <= 100; c = c++){
+for( var c = 10; c <= 100; c = c++){
         console.log(c)
 
 }

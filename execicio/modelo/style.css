@@ -1,7 +1,7 @@
 @charset "UTF8";
 
 body{
-    background-color: rgb(4, 138, 138);
+    background-color: aqua;
     font: normal 15pt arial;
 }
 
@@ -16,7 +16,7 @@ section{
     padding: 15px;
     width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.37); 
+    box-shadow: 3px 3px 10px black; 
 }
 
 footer{

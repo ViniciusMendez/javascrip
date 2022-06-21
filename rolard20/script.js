@@ -7,14 +7,18 @@ let res = document.getElementById('res');
 console.log(d20)
 console.log(d06)
 
+
 // ____________________//______________________
 
 //testando se a destresa foi digitada e pedindo para colocala
 
 function calcular() {
-    if (num.value.length == 0) {
+    if (num == 0) {
+        
         window.alert('Por favor informe a sua destreza')
   
+    }else{
+        res.innerHTML = `sua destrza é ${num}`
     }
     
 }
